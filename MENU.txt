@@ -14,3 +14,8 @@ Vino rosso: nero d'Avola
 Cola cola
 Fanta
 Chinotto
+
+Secondi piatti:
+Orata al forno
+Salmone scottato
+Tonno alla piastra

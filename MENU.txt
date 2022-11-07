@@ -8,12 +8,15 @@ Mare e monti
 Antipasto della casa
 Antipasto per bambino
 
-
 Primi piatti:
 Linguine al pesce spada
 Penne gamberetti e zucchine
 Tagliatelle salmone e panna
 
+Secondi piatti:
+Orata al forno
+Salmone scottato
+Tonno alla piastra
 
 Bevande:
 Acqua naturale
@@ -25,7 +28,6 @@ Vino rosso: primitivo di Manduria
 Vino rosso: nero d'Avola
 Cola cola
 Fanta
-Chinotto
 
 Dolci: 
 Cannolo

@@ -14,3 +14,13 @@ Vino rosso: nero d'Avola
 Cola cola
 Fanta
 Chinotto
+
+Dolci: 
+Cannolo
+Profitterol
+Cassata napoletana
+Pasticciotto
+Pastiera napoletana
+Strudel
+Tiramisù
+Torta di mele

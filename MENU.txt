@@ -2,6 +2,22 @@ SAPORI DELLA MIA TERRA
 
 Tipo di menù: pesce
 
+
+Antipasti:
+Mare e monti
+Antipasto della casa
+Antipasto per bambino
+
+Primi piatti:
+Linguine al pesce spada
+Penne gamberetti e zucchine
+Tagliatelle salmone e panna
+
+Secondi piatti:
+Orata al forno
+Salmone scottato
+Tonno alla piastra
+
 Bevande:
 Acqua naturale
 Acqua frizzante
@@ -10,12 +26,15 @@ Vino bianco: greco di tufo
 Vino bianco: pinot grigio
 Vino rosso: primitivo di Manduria
 Vino rosso: nero d'Avola
-
 Cola cola
 Fanta
-Chinotto
 
-Secondi piatti:
-Orata al forno
-Salmone scottato
-Tonno alla piastra
+Dolci: 
+Cannolo
+Profitterol
+Cassata napoletana
+Pasticciotto
+Pastiera napoletana
+Strudel
+Tiramisù
+Torta di mele
